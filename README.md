@@ -1,5 +1,3 @@
-My Portfolio Website
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -197,7 +195,7 @@ My Portfolio Website
     </div>
   </div>
   <div class="sidebar">
-    <h2>Refani Aulia</h2>
+    <h2></h2>
     <ul>
       <li><a href="#landing">Home</a></li>
       <li><a href="#about">About me</a></li>
