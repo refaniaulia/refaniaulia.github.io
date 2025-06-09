@@ -183,7 +183,7 @@
 <body>
   <div id="landing" class="landing">
     <div>
-      <img src="foto-profil.jpg (2).jpeg" alt="Refani Aulia" />
+      <img src="foto-profil.jpg (2).jpeg.jpg" alt="Refani Aulia" />
       <h1 style="font-size: 2em; font-weight: 600; color: #ffffff;">Hello, It's Me</h1>
       <h2 style="font-size: 4em; font-family: 'Poppins', sans-serif; font-weight: 900; color: #f2f7f6; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
         Refani Aulia
